@@ -73,7 +73,9 @@
     <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
 
-# 🚀 프로젝트 이름
+---
+
+# 🚀 프로젝트
 
 ![GitHub stars](https://img.shields.io/github/stars/사용자명/레포지토리명?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/사용자명/레포지토리명?style=social)
