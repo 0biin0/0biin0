@@ -9,7 +9,7 @@
 <div> 🏆 취업 추천서 보유 (훈련기관 출석우수자) </div>
 <div> 🎤 2024년 KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발) </div>
 
-
+---
 # 🚀 프로젝트 이름
 
 ![GitHub stars](https://img.shields.io/github/stars/사용자명/레포지토리명?style=social)
