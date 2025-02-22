@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
+
+## 성장과 도전을 멈추지 않는 개발자 김효빈👩🏻‍💻
+안녕하십니까 
 # 🚀 프로젝트 이름
 
 ![GitHub stars](https://img.shields.io/github/stars/사용자명/레포지토리명?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/사용자명/레포지토리명?style=social)
 ![GitHub license](https://img.shields.io/github/license/사용자명/레포지토리명)
-
-## 📖 소개
-이 프로젝트는 **(프로젝트 설명 간단히)** 를 위한 것입니다.  
-(어떤 기능을 하는지, 목적이 무엇인지 간략하게 설명)
 
 ## 🛠 기술 스택
 - **언어**: (예: Python, JavaScript, TypeScript)
