@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Kim%20Hyobin%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Kim%20Hyobin%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 ## 성장과 도전을 멈추지 않는 개발자 김효빈👩🏻‍💻
 안녕하십니까 
