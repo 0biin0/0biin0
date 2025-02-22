@@ -101,7 +101,7 @@
  <tr>
     <td align="center" width="50%">
     <div align="left">
-      <h3><a href="https://github.com/crazzyleucocyte/FinalProject">DICOM</a></h3>
+      <h3>🩻<a href="https://github.com/crazzyleucocyte/FinalProject">DICOM</a></h3>
         <p> 개발 기간 : 2024. 10. 07 ~ 2024.11.15 <br>
           프로젝트 목표 : DICOM 데이터를 효율적으로 관리하고 의료 영상을 시각화하는 시스템<br>
           개발 인원  : 5인<br><br>
@@ -130,8 +130,8 @@
 
 <br>
 
-[오라클](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)
-[오라클](https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e)
+[오라클1](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)
+[오라클2](https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e)
 
 <br><br>
-[자바스크립](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#f4ce1b8607ef4a829b4b8fc9ceb03c19)
+[자바스크립트](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#f4ce1b8607ef4a829b4b8fc9ceb03c19)
