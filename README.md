@@ -28,12 +28,6 @@
     </h2>
 </div>
 
- <h3>Database</h3>
-  <div>
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  </div>
-  
-  <!-- Server -->
   <h3>Backend</h3>
   <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -47,7 +41,11 @@
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   </div>
 
-  <!-- Frontend -->
+ <h3>Database</h3>
+  <div>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </div>
+  
   <h3>Frontend</h3>
   <div>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -61,7 +59,6 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
 
-  <!-- APIs -->
   <h3>APIs</h3>
   <div>
     <img src="https://img.shields.io/badge/naver maps-03C75A?style=for-the-badge&logo=naver&logoColor=white">
@@ -69,7 +66,6 @@
     <img src="https://img.shields.io/badge/kakao address API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
   </div>
   
-  <!-- Tools -->
   <h3>Tools</h3>
   <div>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
