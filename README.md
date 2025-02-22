@@ -75,72 +75,63 @@
 
 ---
 
-# 🚀 프로젝트
+# 🚀  팀프로젝트
 
-![GitHub stars](https://img.shields.io/github/stars/사용자명/레포지토리명?style=social)
-![GitHub forks](https://img.shields.io/github/forks/사용자명/레포지토리명?style=social)
-![GitHub license](https://img.shields.io/github/license/사용자명/레포지토리명)
+<table>
+  <tr>
+    <td align="center" width="50%">
+    <div align="left">
+      <h3>🥳<a href="https://github.com/Rumanistic/Semi">팝스팟</a></h3>
+           <a href="https://github.com/Rumanistic/Semi"> </a>
+        <p> 개발 기간 : 2024.08.24 ~ 2024.09.30 <br>
+          프로젝트 목표 : 다양한 팝업 스토어를 한눈에 보고 리뷰 비교하는 홈페이지<br>
+          개발 인원  : 4인<br><br>
+          담당역할 <br>
+          백엔드 | &nbsp:&nbsp 로그인 / 회원가입 / 회원탈퇴, 상세페이지 / 리뷰(등록/삭제) <br>
+          프론트엔드 | &nbsp:&nbsp API호출부분, 페이징처리 <br>
+          <br><br>
+          개발 환경 <br>
+          언어 &nbsp: &nbspJAVA (JDK 17)<br>
+          프레임 워크 &nbsp:&nbsp Spring Boot, React<br>
+          DB &nbsp:&nbsp Oracle DB<br>
+          </p>
+        </div>
+    </td>
+  </tr>
+ <tr>
+    <td align="center" width="50%">
+    <div align="left">
+      <h3><a href="https://github.com/crazzyleucocyte/FinalProject">DICOM</a></h3>
+        <p> 개발 기간 : 2024. 10. 07 ~ 2024.11.15 <br>
+          프로젝트 목표 : DICOM 데이터를 효율적으로 관리하고 의료 영상을 시각화하는 시스템<br>
+          개발 인원  : 5인<br><br>
+          담당역할 <br>
+          프론트엔드 | 메인페이지 상세페이지 구현<br>
+          개발 환경 <br>
+          언어 &nbsp: &nbspJAVA (JDK 17)<br>
+          프레임 워크 &nbsp:&nbsp Spring Boot, THymeLeaf<br>
+          DB &nbsp:&nbsp Oracle DB<br>
+          </p>
+        </div> 
+        </div>  
+    </td>
+ </tr>
+</table>
 
-## 🛠 기술 스택
-- **언어**: (예: Python, JavaScript, TypeScript)
-- **프레임워크/라이브러리**: (예: React, Django, Express.js)
-- **데이터베이스**: (예: MySQL, MongoDB, PostgreSQL)
-- **배포 환경**: (예: Vercel, Netlify, AWS, Heroku)
 
-## 📷 스크린샷
-(프로젝트 실행 화면을 보여주는 이미지 첨부)
+---
 
-## 💡 주요 기능
-- ✅ 기능 1: (기능 설명)
-- ✅ 기능 2: (기능 설명)
-- ✅ 기능 3: (기능 설명)
+<h3>📊 전체 언어 비율</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0biin0&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
+</div>
 
-## 🚀 설치 및 실행 방법
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Study </h2>
 
-### 1. 클론하기
-```bash
-git clone https://github.com/사용자명/레포지토리명.git
-cd 레포지토리명
-```
 
-### 2. 의존성 설치
-```bash
-npm install  # Node.js 프로젝트라면
-pip install -r requirements.txt  # Python 프로젝트라면
-```
+<br>
 
-### 3. 실행
-```bash
-npm start  # Node.js 프로젝트라면
-python main.py  # Python 프로젝트라면
-```
+[오라클](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)
+[오라클](https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e)
 
-## 📜 사용 예제
-```javascript
-// 예제 코드 (필요하면 추가)
-console.log("Hello, World!");
-```
-
-## 🏗️ 프로젝트 구조
-```plaintext
-📂 프로젝트명
- ┣ 📂 src
- ┃ ┣ 📜 main.js
- ┃ ┣ 📜 app.js
- ┣ 📂 assets
- ┃ ┣ 🖼️ logo.png
- ┣ 📜 README.md
- ┗ 📜 package.json
-```
-
-## 📝 라이선스
-이 프로젝트는 [MIT License](LICENSE) 하에 배포됩니다.
-
-## 👏 기여 방법
-1. 이슈를 생성해주세요.  
-2. 포크한 후, 브랜치를 만들고 코드를 수정하세요.  
-3. PR을 보내주세요!
-
-## 📬 연락처
-- ✉️ 이메일: example@email.com
-- 🌐 웹사이트: [https://gptonline.ai/ko/](https://gptonline.ai/ko/)
+<br><br>
+[자바스크립](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#f4ce1b8607ef4a829b4b8fc9ceb03c19)
