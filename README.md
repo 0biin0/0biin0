@@ -1,8 +1,14 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Kim%20Hyobin's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
-성장과 도전을 멈추지 않는 개발자 김효빈👩🏻‍💻<br>
-👩🏻‍💼 | 김효빈
+
+<div> 성장과 도전을 멈추지 않는 개발자 김효빈👩🏻‍💻</div>
+<div> 👩🏻‍💼 | 김효빈 </div>
+<div> 📧 nina402@naver.com </div>
+<div> 👩🏻‍🎓 서일대학교 소프트웨어공학과 졸업 </div>
+<div> 🏆 취업 추천서 보유 (훈련기관 출석우수자) </div>
+<div> 🎤 2024년 KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발) </div>
+
 
 # 🚀 프로젝트 이름
 
