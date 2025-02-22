@@ -10,6 +10,23 @@
 <div> 🎤 2024년 KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발) </div>
 
 ---
+
+<h3>👨‍💻 Technical Training</h3>
+<h3>🚀 자바 & 클라우드 활용 풀스택(2024.05.07 ~ 2024.11.25)</h3>
+<li>STS를 활용해 스프링 기반 웹 페이지를 구축</li>
+<li>React와 JavaScript를 활용해 동적인 화면 구성과 효율적인 상태 관리를 구현</li>
+<li>Oracle DB를 활용해 데이터 모델링 및 쿼리 최적화, 데이터 연동 기능을 구현</li>
+<li>Java와 함께 프론트엔드 및 백엔드 기술을 통합하며 풀스택 개발의 기초</li>
+<li>🏆 취업 추천서 보유 (훈련기관 출석우수자)</li>
+
+---
+ <div align="center">
+    <h2>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> 
+      STACKS
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
+    </h2>
+</div>
 # 🚀 프로젝트 이름
 
 ![GitHub stars](https://img.shields.io/github/stars/사용자명/레포지토리명?style=social)
