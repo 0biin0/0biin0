@@ -1,7 +1,7 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Kim%20Hyobin's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
-성장과 도전을 멈추지 않는 개발자 김효빈👩🏻‍💻
+성장과 도전을 멈추지 않는 개발자 김효빈👩🏻‍💻<br>
 👩🏻‍💼 | 김효빈
 
 # 🚀 프로젝트 이름
