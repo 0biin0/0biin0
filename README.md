@@ -125,11 +125,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0biin0&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
 </div>
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Study </h2>
-
-
-<br>
-
+<h3>👩🏻‍💻study</h3>
 [오라클1](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)
 [오라클2](https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e)
 
