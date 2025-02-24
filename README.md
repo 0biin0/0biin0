@@ -126,7 +126,7 @@
 </div>
 
 <h3>👩🏻‍💻study</h3>
-[오라클1](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)
+[오라클1](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)<br>
 [오라클2](https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e)
 
 <br><br>
