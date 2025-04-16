@@ -82,7 +82,9 @@
     <td align="center" width="50%">
     <div align="left">
       <h3>🥳<a href="https://github.com/Rumanistic/Semi">팝스팟</a></h3>
-       <img src="https://github.com/user-attachments/assets/156e40a6-4c05-45a8-93cd-d681ae7f8d92" width="400"/>
+       <a href="https://github.com/Rumanistic/Semi">
+        <img src="https://github.com/user-attachments/assets/156e40a6-4c05-45a8-93cd-d681ae7f8d92" width="400"/>
+      </a>
            <a href="https://github.com/Rumanistic/Semi"> </a>
         <p> 개발 기간 : 2024.08.24 ~ 2024.09.30 <br>
           프로젝트 목표 : 다양한 팝업 스토어를 한눈에 보고 리뷰 비교하는 홈페이지<br>
@@ -127,8 +129,3 @@
 </div>
 
 <h3>👩🏻‍💻study</h3>
-[오라클1](https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3)<br>
-[오라클2](https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e)
-
-<br><br>
-[자바스크립트](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#f4ce1b8607ef4a829b4b8fc9ceb03c19)
