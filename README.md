@@ -73,7 +73,7 @@
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>🥳 <a href="https://github.com/Rumanistic/Semi">팝스팟</a></h3>
       <a href="https://github.com/Rumanistic/Semi">
-        <img src="https://raw.githubusercontent.com/Rumanistic/Semi/main/assets/sample.png" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Rumanistic/Semi/main/assets/sample.png" width="100%" />
       </a><br><br>
       <strong>개발 기간:</strong> 2024.08.24 ~ 2024.09.30<br>
       <strong>프로젝트 목표:</strong> 팝업스토어 정보 통합 및 리뷰 비교 기능 제공<br>
@@ -83,14 +83,14 @@
       <strong>기술 스택:</strong> Java, Spring Boot, React, Oracle DB
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <h3>🩻 <a href="https://github.com/crazzyleucocyte/FinalProject">DICOM 뷰어</a></h3>
+      <h3>🩻 <a href="https://github.com/crazzyleucocyte/FinalProject">DICOM 뷰어 (Medipacs)</a></h3>
       <a href="https://github.com/crazzyleucocyte/FinalProject">
-        <img src="https://raw.githubusercontent.com/crazzyleucocyte/FinalProject/main/assets/medipacs_intro.png" width="100%"/>
+        <img src="https://raw.githubusercontent.com/crazzyleucocyte/FinalProject/main/assets/%E1%84%86%E1%85%A6%E1%84%83%E1%85%B5%E1%84%91%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.png" width="100%" />
       </a><br><br>
       <strong>개발 기간:</strong> 2024.10.07 ~ 2024.11.15<br>
-      <strong>프로젝트 목표:</strong> DICOM 의료 영상 시각화 및 검사 정보 관리<br>
+      <strong>프로젝트 목표:</strong> DICOM 의료 영상 시각화 및 검사 정보 관리 시스템<br>
       <strong>담당 역할:</strong><br>
-      - 프론트엔드: 메인 페이지, 상세 뷰어 페이지 구현<br>
+      - 프론트엔드: 메인 페이지, 상세 뷰어 구현<br>
       <strong>기술 스택:</strong> Java, Spring Boot, Thymeleaf, Oracle DB
     </td>
   </tr>
