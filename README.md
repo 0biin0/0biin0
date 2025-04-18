@@ -123,7 +123,14 @@
 
 ---
 
-## 👩🏻‍💻 Study
+### 👩🏻‍💻 Study
+
+- 📘 JavaScript  
+  https://www.notion.so/fff055ef95044cf1a4e8955fabe81774?pvs=4
+
+- 🗄️ Oracle  
+  https://www.notion.so/df1bd9405d954f899d43129b7fe1bff3?pvs=4  
+  https://www.notion.so/2-f63a0a6b9be44682836eb72b44d5367e?pvs=4
 
 ---
 
