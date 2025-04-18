@@ -73,7 +73,7 @@
     <td width="50%" valign="top" style="padding: 10px;">
       <h3>🥳 <a href="https://github.com/Rumanistic/Semi">팝스팟</a></h3>
       <a href="https://github.com/Rumanistic/Semi">
-        <img src="https://raw.githubusercontent.com/Rumanistic/Semi/main/assets/sample.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Rumanistic/Semi/main/assets/main.gif" width="100%" />
       </a><br><br>
       <strong>개발 기간:</strong> 2024.08.24 ~ 2024.09.30<br>
       <strong>프로젝트 목표:</strong> 팝업스토어 정보 통합 및 리뷰 비교 기능 제공<br>
