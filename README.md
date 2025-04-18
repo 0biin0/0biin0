@@ -75,50 +75,54 @@
 
 ---
 
-# 🚀  팀프로젝트
+<h1>🚀 팀프로젝트</h1>
 
 <table>
   <tr>
     <td align="center" width="50%">
-    <div align="left">
-      <h3>🥳<a href="https://github.com/Rumanistic/Semi">팝스팟</a></h3>
-       <a href="https://github.com/Rumanistic/Semi">
-        <img src="https://github.com/user-attachments/assets/156e40a6-4c05-45a8-93cd-d681ae7f8d92" width="400"/>
-      </a>
-           <a href="https://github.com/Rumanistic/Semi"> </a>
-        <p> 개발 기간 : 2024.08.24 ~ 2024.09.30 <br>
+      <div align="left">
+        <h3>🥳 <a href="https://github.com/Rumanistic/Semi">팝스팟</a></h3>
+        <a href="https://github.com/Rumanistic/Semi">
+          <img src="https://github.com/user-attachments/assets/156e40a6-4c05-45a8-93cd-d681ae7f8d92" width="100%" />
+        </a>
+        <p>
+          개발 기간 : 2024.08.24 ~ 2024.09.30 <br>
           프로젝트 목표 : 다양한 팝업 스토어를 한눈에 보고 리뷰 비교하는 홈페이지<br>
-          개발 인원  : 4인<br><br>
-          담당역할 <br>
-          백엔드 | &nbsp:&nbsp 로그인 / 회원가입 / 회원탈퇴, 상세페이지 / 리뷰(등록/삭제) <br>
-          프론트엔드 | &nbsp:&nbsp API호출부분, 페이징처리 <br>
-          <br><br>
-          개발 환경 <br>
-          언어 &nbsp: &nbspJAVA (JDK 17)<br>
-          프레임 워크 &nbsp:&nbsp Spring Boot, React<br>
-          DB &nbsp:&nbsp Oracle DB<br>
-          </p>
-        </div>
+          개발 인원 : 4인<br><br>
+
+          <strong>담당 역할</strong><br>
+          백엔드 | 로그인 / 회원가입 / 회원탈퇴, 상세페이지 / 리뷰(등록/삭제)<br>
+          프론트엔드 | API 호출, 페이징 처리<br><br>
+
+          <strong>개발 환경</strong><br>
+          언어 : JAVA (JDK 17)<br>
+          프레임워크 : Spring Boot, React<br>
+          DB : Oracle DB
+        </p>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="left">
+        <h3>🩻 <a href="https://github.com/crazzyleucocyte/FinalProject">DICOM</a></h3>
+        <a href="https://github.com/crazzyleucocyte/FinalProject">
+          <img src="https://github.com/user-attachments/assets/156e40a6-4c05-45a8-93cd-d681ae7f8d92" width="100%" />
+        </a>
+        <p>
+          개발 기간 : 2024.10.07 ~ 2024.11.15 <br>
+          프로젝트 목표 : DICOM 데이터를 효율적으로 관리하고 의료 영상을 시각화하는 시스템<br>
+          개발 인원 : 5인<br><br>
+
+          <strong>담당 역할</strong><br>
+          프론트엔드 | 메인페이지, 상세페이지 구현<br><br>
+
+          <strong>개발 환경</strong><br>
+          언어 : JAVA (JDK 17)<br>
+          프레임워크 : Spring Boot, Thymeleaf<br>
+          DB : Oracle DB
+        </p>
+      </div>
     </td>
   </tr>
- <tr>
-    <td align="center" width="50%">
-    <div align="left">
-      <h3>🩻<a href="https://github.com/crazzyleucocyte/FinalProject">DICOM</a></h3>
-        <p> 개발 기간 : 2024. 10. 07 ~ 2024.11.15 <br>
-          프로젝트 목표 : DICOM 데이터를 효율적으로 관리하고 의료 영상을 시각화하는 시스템<br>
-          개발 인원  : 5인<br><br>
-          담당역할 <br>
-          프론트엔드 | 메인페이지 상세페이지 구현<br>
-          개발 환경 <br>
-          언어 &nbsp: &nbspJAVA (JDK 17)<br>
-          프레임 워크 &nbsp:&nbsp Spring Boot, THymeLeaf<br>
-          DB &nbsp:&nbsp Oracle DB<br>
-          </p>
-        </div> 
-        </div>  
-    </td>
- </tr>
 </table>
 
 
