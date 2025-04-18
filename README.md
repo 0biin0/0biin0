@@ -3,13 +3,11 @@
 </p>
 
 <div align="center">
-
 👩🏻‍💼 <strong>김효빈</strong>  
 📧 nina402@naver.com  
 👩🏻‍🎓 서일대학교 소프트웨어공학과 졸업  
 🏆 훈련기관 출석우수자 (취업 추천서 보유)  
-🎤 2024년 KDT 통합 프로젝트 발표회 참여 (팝업스토어 웹사이트)
-
+🎤 2024년 KDT 통합 프로젝트 발표회 참여
 </div>
 
 ---
@@ -55,8 +53,6 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ### 🌐 APIs
-<img src="https://img.shields.io/badge/naver maps-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/naver coordinates API-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/kakao address API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"/>
 
 ### 🛠 Tools
