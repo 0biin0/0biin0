@@ -103,7 +103,7 @@
 ## 📊 전체 언어 비율
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0biin0&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0biin0&theme=onedark&row=1&column=6" />
 </p>
 
 ---
