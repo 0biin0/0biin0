@@ -1,13 +1,14 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Kim%20Hyobin's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Java%20Fullstack%20Training&descAlignY=60&descAlign=62"/>
 </p>
-
 <div align="center">
+  
 👩🏻‍💼 <strong>김효빈</strong>  
 📧 nina402@naver.com  
 👩🏻‍🎓 서일대학교 소프트웨어공학과 졸업  
 🏆 훈련기관 출석우수자 (취업 추천서 보유)  
 🎤 2024년 KDT 통합 프로젝트 발표회 참여
+
 </div>
 
 ---
