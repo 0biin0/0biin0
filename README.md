@@ -7,7 +7,7 @@
 <h3>👩🏻‍💼 김효빈 | Kim Hyobin</h3>
 
 <p>
-📧 <strong>nina402@naver.com</strong><br>
+📧<br>
 👩🏻‍🎓 서일대학교 소프트웨어공학과 졸업<br>
 🏆 훈련기관 출석우수자 (취업 추천서 보유)<br>
 🎤 2024년 KDT 통합 프로젝트 발표회 참여
